@@ -17,7 +17,7 @@ This project implements a real-time recommendation system for an e-commerce plat
 ## Project Structure
 ```
 .
-├── recommendation_system.py  # Main script containing the implementation
+├── realtime recommendation system.py  # Main script containing the implementation
 ├── README.md                 # Project documentation
 ```
 
