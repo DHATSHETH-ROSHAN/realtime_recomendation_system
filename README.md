@@ -40,7 +40,7 @@ This project implements a real-time recommendation system for an e-commerce plat
 ## Installation and Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/realtime-recommendation-system.git
+   git clone https://github.com/DHATSHETH-ROSHAN/realtime_recomendation_system.git
    cd realtime-recommendation-system
    ```
 
